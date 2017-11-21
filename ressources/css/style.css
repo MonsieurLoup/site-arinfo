@@ -292,7 +292,7 @@ header {
 
 
 #price {
-    background: #fff;
+    background: #f4f4f4;
 }
 .plan-box {
     background: #fff;
@@ -371,8 +371,9 @@ header {
 .section-avis {
     /* background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg); */
-    background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), /*url(img/back-customers.jpg)*/;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), /*url(img/back-customers.jpg)*/;
+    /*background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),*/ /*url(img/back-customers.jpg)*/;
+    /*background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),*/ /*url(img/back-customers.jpg)*/;
+    background-color: #f4f4f4;
     background-size: cover;
     color: rgb (0, 0, 0);
     background-attachment: fixed;
